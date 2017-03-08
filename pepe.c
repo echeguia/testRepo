@@ -19,3 +19,6 @@ sad
 sa
 aas
 
+typedef <#returnType#>(^<#name#>)(<#arguments#>);
+
+
