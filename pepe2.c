@@ -17,3 +17,11 @@ struct
 
 
 typedef <#existing#> <#new#>;
+
+
+dsf
+dsffds
+struct signed
+{
+    <#struct fields#>
+};
