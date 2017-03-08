@@ -7,4 +7,21 @@ erw
 erw
 re
 Pelado
-Nahuel dice que puto
+
+
+struct
+{
+    <#struct fields#>
+};
+
+
+
+typedef <#existing#> <#new#>;
+
+
+dsf
+dsffds
+struct signed
+{
+    <#struct fields#>
+};
