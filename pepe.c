@@ -26,3 +26,8 @@ aas
 typedef <#returnType#>(^<#name#>)(<#arguments#>);
 
 
+typedef NS_ENUM(NSUInteger, <#MyEnum#>) {
+    <#MyEnumValueA#>,
+    <#MyEnumValueB#>,
+    <#MyEnumValueC#>,
+};
